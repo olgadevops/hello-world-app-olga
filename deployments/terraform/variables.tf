@@ -20,7 +20,7 @@ variable "deployment_endpoint" {
         dev     = "dev.hello.love2travelplaces.com"
         qa      = "qa.hello.love2travelplaces.com"
         prod    = "hello.love2travelplaces.com"
-        stage   = "stage.hello.lovestravelplaces.com"
+        stage   = "stage.hello.love2travelplaces.com"
     }
 
     description = "- (Optional) The endpooint of the deployment."
